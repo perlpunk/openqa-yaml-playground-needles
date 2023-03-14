@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 410,
+      "width": 113,
+      "height": 138,
+      "ypos": 149
+    },
+    {
+      "xpos": 992,
+      "ypos": 44,
+      "width": 25,
+      "height": 21,
+      "type": "match",
+      "click_point": {
+        "xpos": 12.5,
+        "ypos": 10.5
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ff-playgound-enter-example-with-docker"
+  ]
+}

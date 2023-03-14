@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 163,
+      "ypos": 540,
+      "width": 537,
+      "height": 10,
+      "type": "match"
+    },
+    {
+      "xpos": 162,
+      "ypos": 575,
+      "width": 180,
+      "height": 13,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ff-playground-docker-started"
+  ]
+}

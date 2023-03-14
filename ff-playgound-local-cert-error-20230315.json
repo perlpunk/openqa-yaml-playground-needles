@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "ypos": 337,
+      "height": 57,
+      "width": 534,
+      "xpos": 46,
+      "type": "match"
+    },
+    {
+      "xpos": 557,
+      "ypos": 508,
+      "width": 197,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 785,
+      "ypos": 510,
+      "width": 105,
+      "height": 20,
+      "type": "match",
+      "click_point": {
+        "xpos": 52.5,
+        "ypos": 10
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ff-playgound-local-cert-error"
+  ]
+}

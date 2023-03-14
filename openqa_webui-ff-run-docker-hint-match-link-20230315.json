@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 275,
+      "ypos": 495,
+      "width": 139,
+      "height": 18,
+      "type": "match",
+      "click_point": {
+        "xpos": 69.5,
+        "ypos": 9
+      }
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ff-run-docker-hint-match-link"
+  ]
+}

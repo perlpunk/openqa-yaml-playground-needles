@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 11,
+      "ypos": 10,
+      "width": 76,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "generic-desktop",
+    "openqa-desktop"
+  ]
+}

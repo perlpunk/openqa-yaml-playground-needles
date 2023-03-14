@@ -1,0 +1,40 @@
+{
+  "area": [
+    {
+      "xpos": 272,
+      "type": "match",
+      "ypos": 331,
+      "width": 372,
+      "height": 31
+    },
+    {
+      "width": 159,
+      "height": 28,
+      "ypos": 488,
+      "type": "match",
+      "xpos": 271
+    },
+    {
+      "type": "match",
+      "xpos": 663,
+      "height": 20,
+      "width": 56,
+      "ypos": 578,
+      "click_point": {
+        "xpos": 28,
+        "ypos": 10
+      }
+    },
+    {
+      "type": "match",
+      "xpos": 277,
+      "width": 243,
+      "height": 24,
+      "ypos": 204
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ff-run-docker-hint"
+  ]
+}
